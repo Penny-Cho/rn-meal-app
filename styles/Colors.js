@@ -7,4 +7,5 @@ export default {
 	up: "#235A97",
 	down: "#76C5D6",
 	grey: "#C0C1C4",
+	darkGrey: "#5c5d5e",
 };
